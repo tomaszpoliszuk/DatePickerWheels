@@ -1,0 +1,10 @@
+Package: com.tomaszpoliszuk.datepickerwheels
+Depends: firmware (>= 14.0), mobilesubstrate
+Name: Date Picker - Wheels
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Date Picker - Wheels
+Author: Tomasz Poliszuk
+Section: Tweaks
+dev: tomaszpoliszuk
+Tag: purpose::extension
