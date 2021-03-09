@@ -10,10 +10,17 @@
 
 ## Screenshots:
 calendar - before:
+
 ![before](screenshots/datepickerwheels1.png)
+
 calendar - after:
+
 ![after](screenshots/datepickerwheels2.png)
+
 clock - before:
+
 ![before](screenshots/datepickerwheels3.png)
+
 clock - after:
+
 ![after](screenshots/datepickerwheels4.png)
