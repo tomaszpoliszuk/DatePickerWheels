@@ -1,9 +1,9 @@
 Package: com.tomaszpoliszuk.datepickerwheels
 Depends: firmware (>= 14.0), mobilesubstrate
 Name: Date Picker - Wheels
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Date Picker - Wheels
+Description: Replace new "Inline" Datepicker with "Wheels" one known from previous iOS versions
 Author: Tomasz Poliszuk
 Section: Tweaks
 dev: tomaszpoliszuk
