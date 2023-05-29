@@ -1,10 +1,14 @@
 Package: com.tomaszpoliszuk.datepickerwheels
 Depends: firmware (>= 14.0), mobilesubstrate
 Name: Date Picker - Wheels
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Replace new "Inline" Datepicker with "Wheels" one known from previous iOS versions
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datepickerwheelsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datepickerwheelsDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Tweaks
 dev: tomaszpoliszuk
 Tag: purpose::extension

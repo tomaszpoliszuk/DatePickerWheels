@@ -1,10 +1,9 @@
 /* Date Picker - Wheels
- * Copyright (C) 2020 Tomasz Poliszuk
+ * (c) Copyright 2020-2023 Tomasz Poliszuk
  *
  * Date Picker - Wheels is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
+ * the Free Software Foundation, version 3 of the License.
  *
  * Date Picker - Wheels is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -39,14 +38,3 @@
 	}
 }
 %end
-
-%ctor {
-//	Found in https://github.com/EthanRDoesMC/Dawn/commit/847cb5192dae9138a893e394da825e86be561a6b
-	if (
-		[[[[NSProcessInfo processInfo] arguments] objectAtIndex:0] containsString:@"/Application"]
-		||
-		[[[[NSProcessInfo processInfo] arguments] objectAtIndex:0] containsString:@"SpringBoard.app"]
-	) {
-		%init;
-	}
-}
